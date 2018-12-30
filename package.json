@@ -1,0 +1,38 @@
+{
+  "name": "my_blockchain_demo",
+  "version": "1.0.0",
+  "description": "my first blockchain demo using javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zelalem-12/blockchain_in_javascript.git"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "private",
+    "key",
+    "public",
+    "key",
+    "proof",
+    "of",
+    "work",
+    "mining",
+    "nodes",
+    "P2P",
+    "chain",
+    "block"
+  ],
+  "author": "Zelalem Antigegn Enyew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelalem-12/blockchain_in_javascript/issues"
+  },
+  "homepage": "https://github.com/zelalem-12/blockchain_in_javascript#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
